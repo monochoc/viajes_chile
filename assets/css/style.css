@@ -1,0 +1,28 @@
+.logo {
+    width: 5%;
+    height: 5%;
+    margin-inline-start: 2rem;
+}
+
+.navegacion a {
+    color: rgba(255, 255, 255, 0.253);
+}
+
+.tarjetas {
+    width: 100%;
+    height: 10rem;
+}
+
+.marco {
+    border: none;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.redes h3, redes i {
+    display: inline-block;
+}
