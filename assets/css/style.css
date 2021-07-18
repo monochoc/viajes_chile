@@ -1,7 +1,8 @@
 .logo {
-    width: 5%;
-    height: 5%;
-    margin-inline-start: 2rem;
+    width: 2rem;
+    height: 2rem;
+    margin: 1rem;
+    margin-inline-end: 10px;
 }
 
 .navegacion a {
@@ -25,4 +26,8 @@
 
 .redes h3, redes i {
     display: inline-block;
+}
+
+.mostrar {
+    display: -ms-inline-flexbox;
 }
